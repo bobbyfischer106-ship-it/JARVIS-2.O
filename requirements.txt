@@ -1,0 +1,9 @@
+google-genai
+SpeechRecognition
+pyttsx3
+pyaudio
+psutil
+pyautogui
+requests
+pywhatkit
+Pillow

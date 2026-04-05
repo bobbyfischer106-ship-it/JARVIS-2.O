@@ -1,0 +1,5 @@
+{
+  "name": "J.A.R.V.I.S. Omniverse Tier",
+  "description": "Tony Stark-level AI assistant with total local OS control, media manipulation, and communication arrays.",
+  "requestFramePermissions": ["microphone"]
+}
